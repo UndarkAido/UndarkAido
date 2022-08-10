@@ -27,7 +27,7 @@ jobs:
           # Options
           user: UndarkAido
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Chicago
           plugin_code: yes
           plugin_code_days: 3
