@@ -185,55 +185,55 @@
                                 <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
                                 <g class="tick" opacity="1" transform="translate(17.711538461538463,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 27</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 28</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(52.32692307692308,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 28</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 29</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(86.94230769230771,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 29</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 30</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(121.55769230769232,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 30</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 31</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(156.17307692307693,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 31</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(190.78846153846155,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(225.40384615384616,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Nov 02</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(261.46153846153845,0)">
+                                <g class="tick" opacity="1" transform="translate(226.84615384615384,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 03</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(296.07692307692304,0)">
+                                <g class="tick" opacity="1" transform="translate(261.46153846153845,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 04</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(330.6923076923077,0)">
+                                <g class="tick" opacity="1" transform="translate(296.07692307692304,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 05</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(365.3076923076923,0)">
+                                <g class="tick" opacity="1" transform="translate(330.6923076923077,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 06</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(399.92307692307696,0)">
+                                <g class="tick" opacity="1" transform="translate(365.3076923076923,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 07</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(434.53846153846155,0)">
+                                <g class="tick" opacity="1" transform="translate(399.92307692307696,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 08</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(434.53846153846155,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Nov 09</text>
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
@@ -283,55 +283,55 @@
                                 <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
                                 <g class="tick" opacity="1" transform="translate(17.711538461538463,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 27</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 28</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(52.32692307692308,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 28</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 29</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(86.94230769230771,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 29</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 30</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(121.55769230769232,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 30</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 31</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(156.17307692307693,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 31</text>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(190.78846153846155,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(225.40384615384616,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Nov 02</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(261.46153846153845,0)">
+                                <g class="tick" opacity="1" transform="translate(226.84615384615384,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 03</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(296.07692307692304,0)">
+                                <g class="tick" opacity="1" transform="translate(261.46153846153845,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 04</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(330.6923076923077,0)">
+                                <g class="tick" opacity="1" transform="translate(296.07692307692304,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 05</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(365.3076923076923,0)">
+                                <g class="tick" opacity="1" transform="translate(330.6923076923077,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 06</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(399.92307692307696,0)">
+                                <g class="tick" opacity="1" transform="translate(365.3076923076923,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 07</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(434.53846153846155,0)">
+                                <g class="tick" opacity="1" transform="translate(399.92307692307696,0)">
                                     <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
                                     <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 08</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(434.53846153846155,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Nov 09</text>
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
@@ -377,7 +377,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 8 Nov 2025, 19:18:58 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2025, 19:18:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
